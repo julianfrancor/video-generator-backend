@@ -40,6 +40,7 @@ Dispara la generación del video con la información del producto.
   "handle": "slug-shopify",
   "image": "https://cdn.shopify.com/..."
 }
+```
 
 #### Respuesta exitosa
 
@@ -47,3 +48,4 @@ Dispara la generación del video con la información del producto.
 {
   "message": "Video request sent to Make"
 }
+```
